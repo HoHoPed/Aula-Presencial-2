@@ -24,10 +24,10 @@ for(let index = 0; index < alunos.length; index++){
 }
 
     else if (atual % 2 === 0) {
-        console.log(`A quantidade de alunos é par`)
+        console.log(`A quantidade de alunos é par ${alunos}`)
 
     }
 
     else 
-        console.log(`A quantidade de alunos é impar`)
+        console.log(`A quantidade de alunos é impar ${alunos}`)
 }})
